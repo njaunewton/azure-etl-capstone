@@ -88,4 +88,4 @@ After completing the project, the following Azure resources should be cleaned up
 ## Author
 
 Blessed Newton  
-NACIT Data Analytics Program
+NACIT Data Science Program
